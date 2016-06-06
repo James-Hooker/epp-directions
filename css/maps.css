@@ -1,0 +1,4 @@
+html, body { height: 100%; margin: 0; padding: 0; }
+#map, #directions, #street_view { height: 100%; display:inline-block;}
+#map, #directions, #street_view { height: 300px; width: 300px; }
+#directions { overflow:scroll; }
